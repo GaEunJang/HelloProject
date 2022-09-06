@@ -15,4 +15,4 @@
   
 * **나가기**
 
-  <img width="220" alt="나가기" src="https://user-images.githubusercontent.com/103119924/188553497-b11c42cf-ad95-4655-83af-d0bd48775440.png">
+  <img width="200" alt="나가기" src="https://user-images.githubusercontent.com/103119924/188553497-b11c42cf-ad95-4655-83af-d0bd48775440.png">
