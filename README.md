@@ -1,5 +1,7 @@
 # < Project 1 >
   > 영단어 마스터 
+## 개발 언어
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
 ## 실행 화면 캡쳐
 
