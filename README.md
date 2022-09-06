@@ -1,7 +1,7 @@
 # < Project 1 >
   > 영단어 마스터 
 ## 개발 언어
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-02569B?style=for-the badge&logo=Flutter&logoColor=white" width="100" height="40">   
 
 ## 실행 화면 캡쳐
 
