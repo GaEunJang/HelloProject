@@ -1,10 +1,10 @@
 # < Project 1 >
 
 ## 영단어 마스터 
-
-## 개발 언어
 <div>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" width="100" height="40"/>  
+## 개발 언어
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" width="80" height="40"/>  
+<div>
 
 ## 실행 화면 캡쳐
 
