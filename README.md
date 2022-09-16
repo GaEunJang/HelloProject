@@ -31,7 +31,7 @@
 
 * **파일 저장**
 
-  <img width="200" alt="파일 저장" src="https://user-images.githubusercontent.com/103119924/190571240-28ebb13e-9a8c-4bba-aa5a-e674924125bb.png">
+  <img width="160" alt="파일 저장" src="https://user-images.githubusercontent.com/103119924/190571240-28ebb13e-9a8c-4bba-aa5a-e674924125bb.png">
   
 * **파일 저장 후 모드 단어 보기**
   
