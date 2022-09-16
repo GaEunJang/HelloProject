@@ -33,11 +33,10 @@
 
     <img width="200" alt="파일 저장" src="https://user-images.githubusercontent.com/103119924/190570044-c1c27a43-bb85-4d75-a31f-b77e4492b671.png>
   
-* **파일 저장 후 모든 단어 보기**
+* **파일 저장 후 모드 단어 보기**
   
     <img width="200" alt="파일 저장 후 모든 단어 보기" src="https://user-images.githubusercontent.com/103119924/190570046-f801108b-90b7-4c62-a798-1674801d3f13.png">
 
-      
 * **나가기**
 
   <img width="150" alt="나가기" src="https://user-images.githubusercontent.com/103119924/188553497-b11c42cf-ad95-4655-83af-d0bd48775440.png">
